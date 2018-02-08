@@ -2,7 +2,7 @@
 It is a basic coding for attendace system using face recognition
 
 Requirements:
-opencv 2.4.13,
+opencv 2.4.9,
 python 2.7,
 a webcam .
 
@@ -21,3 +21,7 @@ Finally the detector is used to detect face with their name.
 comparing,the feeding of data is now done manually but in future I automate it.
      Finally you should create seperate table for attendance in which attendance will be marked,I
 used wampserver with mysql as the backend
+   The harrcascade.yml file which I included in the project is a file which analyzes the image and 
+   gives the training.yml file so just store all the image dataset folder,recognizer folder which 
+   contains the trainer file,harcascade and all the coding files in one folder so that it will not
+   throw error due to unknown path.
