@@ -1,10 +1,9 @@
-*********************************************************************************
-####################Face recoginition based attendance system#####################
+#Face Recognition Attendance System - FACEIUM
 
+##Description:
+    
 
-It is a basic coding for attendace system using face recognition
-
-Requirements:
+##Requirements:
 
 opencv 2.4.9,
 
