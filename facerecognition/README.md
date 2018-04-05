@@ -1,5 +1,5 @@
 *********************************************************************************
-###################################################Face recoginition based attendance system#############################################
+####################Face recoginition based attendance system#####################
 It is a basic coding for attendace system using face recognition
 
 Requirements:
