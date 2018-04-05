@@ -5,8 +5,11 @@
 It is a basic coding for attendace system using face recognition
 
 Requirements:
+
 opencv 2.4.9,
+
 python 2.7,
+
 a webcam .
 
 The face recognition involves 3 steps
