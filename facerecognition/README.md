@@ -1,4 +1,4 @@
-#Face Recognition Attendance System - FACEIUM
+Face Recognition Attendance System - FACEIUM
 
 ##Description:
     Faceium is a simple model system for attedance by using face as a id.
