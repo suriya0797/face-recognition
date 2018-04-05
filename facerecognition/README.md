@@ -13,6 +13,9 @@
    
 - Wamp server 
 
+Opencv can be downloaded from
+https://sourceforge.net/projects/opencvlibrary/files/opencv-win/2.4.9/opencv-2.4.9.exe/download
+
 ## Packages
 
 - cv2
@@ -20,6 +23,7 @@
 - os
 - numpy
 - PIL
+
 The packages can also be installed from this link
 http://www.lfd.uci.edu/~gohlke/pythonlibs/#scikit-image
 
