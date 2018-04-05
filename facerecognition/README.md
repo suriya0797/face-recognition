@@ -5,11 +5,13 @@
 
 ## Requirements:
 
-opencv 2.4.9,
+''' opencv 2.4.9,
 
-python 2.7,
+    python 2.7,
 
-a webcam .
+    a webcam .
+   
+    Wamp server '''
 
 The face recognition involves 3 steps
 
