@@ -1,9 +1,9 @@
-Face Recognition Attendance System - FACEIUM
+# Face Recognition Attendance System - FACEIUM
 
-##Description:
+## Description:
     Faceium is a simple model system for attedance by using face as a id.
 
-##Requirements:
+## Requirements:
 
 opencv 2.4.9,
 
