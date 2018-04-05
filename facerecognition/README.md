@@ -13,6 +13,16 @@
    
 - Wamp server 
 
+## Packages
+
+- cv2
+- pymysql
+- os
+- numpy
+- PIL
+The packages can also be installed from this link
+http://www.lfd.uci.edu/~gohlke/pythonlibs/#scikit-image
+
 ## The face recognition involves 3 steps
 
 - Dataset
@@ -21,10 +31,6 @@
 
 - Detector
 
-## Packages
-
-- cv2
-- pymysql
 
 The dataset is the pics captured using the webcam which is done by executing the code 
 in capture1.py and in this phase the names of the person are stored along with the id.
