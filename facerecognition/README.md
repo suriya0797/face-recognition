@@ -25,7 +25,7 @@ https://sourceforge.net/projects/opencvlibrary/files/opencv-win/2.4.9/opencv-2.4
 - PIL
 
 The packages can also be installed from this link
-http://www.lfd.uci.edu/~gohlke/pythonlibs/#scikit-image
+http://www.lfd.uci.edu/~gohlke/pythonlibs/
 
 ## The face recognition involves 3 steps
 
