@@ -10,8 +10,11 @@ python 2.7,
 a webcam .
 
 The face recognition involves 3 steps
+
 *Dataset
+
 *Trainer
+
 *Detector
 
 The dataset is the pics captured using the webcam which is done by executing the code 
