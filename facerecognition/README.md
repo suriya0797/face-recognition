@@ -21,6 +21,11 @@
 
 - Detector
 
+## Packages
+
+- cv2
+- pymysql
+
 The dataset is the pics captured using the webcam which is done by executing the code 
 in capture1.py and in this phase the names of the person are stored along with the id.
 
