@@ -24,6 +24,7 @@ https://sourceforge.net/projects/opencvlibrary/files/opencv-win/2.4.9/opencv-2.4
 - numpy
 - scikit-learn
 - scikit-image
+- datetime
 
 The packages can also be installed from this link
 http://www.lfd.uci.edu/~gohlke/pythonlibs/
